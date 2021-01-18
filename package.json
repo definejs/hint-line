@@ -1,6 +1,6 @@
 {
   "name": "@definejs/hint-line",
-  "version": "0.1.4",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {},
@@ -13,7 +13,7 @@
     "url": "https://github.com/definejs/hint-line.git"
   },
   "dependencies": {
-    "@definejs/lines": "^0.1.2",
+    "@definejs/lines": "^1.0.0",
     "colors": "^1.4.0"
   }
 }
